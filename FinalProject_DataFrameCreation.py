@@ -15,7 +15,7 @@ import numpy as np
 #DATA IMPORT AND CLEANING PORTION
 
 # file path of college data txt
-data_filepath = "C:/Users/17818/OneDrive/Documents/Bentley/Fall 2020/MA705/FinalProject/CollegeCovidCases.txt"
+data_filepath = "./CollegeCovidCases.txt"
 
 original_headers=['date', 'state', 'county', 'city', 'ipeds_id', 'college', 'cases', 'notes']
 
