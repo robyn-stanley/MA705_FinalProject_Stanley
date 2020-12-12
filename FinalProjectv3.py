@@ -7,7 +7,6 @@ Created on Sat Dec 12 11:01:53 2020
 
 import pandas as pd
 import scipy.stats as stats
-import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 import requests
 import numpy as np
