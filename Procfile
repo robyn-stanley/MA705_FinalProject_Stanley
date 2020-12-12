@@ -1,1 +1,1 @@
-web: python FinalProjectv3.py
+web: gunicorn FinalProjectv3:server
