@@ -1004,8 +1004,8 @@ date	state	county	city	ipeds_id	college	cases	notes
 11/19/2020	New Mexico	San Miguel	Las Vegas	187897	New Mexico Highlands University	11	
 11/19/2020	New Mexico	Socorro	Socorro	187967	New Mexico Institute of Mining and Technology	11	
 11/19/2020	New Mexico	Chaves	Roswell	187912	New Mexico Military Institute	106	
-11/19/2020	New Mexico	Doña Ana	Las Cruces	188030	New Mexico State University	319	
-11/19/2020	New Mexico	Rio Arriba	Española	188058	Northern New Mexico College	1	
+11/19/2020	New Mexico	DoÃ±a Ana	Las Cruces	188030	New Mexico State University	319	
+11/19/2020	New Mexico	Rio Arriba	EspaÃ±ola	188058	Northern New Mexico College	1	
 11/19/2020	New Mexico	San Juan	Farmington	188100	San Juan College	14	
 11/19/2020	New Mexico	Santa Fe	Santa Fe	188137	Santa Fe Community College	17	
 11/19/2020	New Mexico	Bernalillo	Albuquerque	187985	University of New Mexico	224	
@@ -1523,7 +1523,7 @@ date	state	county	city	ipeds_id	college	cases	notes
 11/19/2020	Puerto Rico	Ponce	Ponce	243212	University of Puerto Rico at Ponce		
 11/19/2020	Puerto Rico	Utuado	Utuado	243188	University of Puerto Rico at Utuado		
 11/19/2020	Puerto Rico	San Juan	San Juan	243203	"University of Puerto Rico, Medical Sciences"	65	
-11/19/2020	Puerto Rico	San Juan	Rio Piedras	243221	University of Puerto Rico-Río Piedras	8	
+11/19/2020	Puerto Rico	San Juan	Rio Piedras	243221	University of Puerto Rico-RÃ­o Piedras	8	
 11/19/2020	Rhode Island	Providence	Providence	217156	Brown University	83	
 11/19/2020	Rhode Island	Providence	Smithfield	217165	Bryant University	44	
 11/19/2020	Rhode Island	Providence	Providence	217235	Johnson & Wales University	73	
@@ -1699,7 +1699,7 @@ date	state	county	city	ipeds_id	college	cases	notes
 11/19/2020	Texas	Lubbock	Lubbock	229337	Texas Tech University Health Sciences Center	629	
 11/19/2020	Texas	El Paso	El Paso	492689	Texas Tech University Health Sciences Center El Paso	185	
 11/19/2020	Texas	Tarrant	Fort Worth	229160	Texas Wesleyan University	82	
-11/19/2020	Texas	Denton	Denton	229179	Texas Woman’s University	84	
+11/19/2020	Texas	Denton	Denton	229179	Texas Womanâ€™s University	84	
 11/19/2020	Texas	Bexar	San Antonia	229267	Trinity University	22	College did not clarify whether data includes duplicate cases.
 11/19/2020	Texas	Smith	Tyler	229355	Tyler Junior College	144	
 11/19/2020	Texas	Dallas	Irving	224323	University of Dallas	61	
