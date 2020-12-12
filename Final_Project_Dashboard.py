@@ -14,8 +14,14 @@ import plotly.express as px
 
 
 #DASHBOARD PORTION
-data_filepath = "C:/Users/17818/OneDrive/Documents/Bentley/Fall 2020/MA705/GroupProject/StatePollDataFrame.csv"
-df = pd.read_csv(data_filepath)
+data_filepath = "C:/Users/17818/OneDrive/Documents/Bentley/Fall 2020/MA705/FinalProject/df_Final.csv"
+df_final= pd.read_csv(data_filepath)
+
+Average=df_final['Probability'].mean()
+Average=round(Average*100,2)
+Average=str(Average)+'%'
+
+df_final['Probability'] = round(df_final['Probability']*100,2).astype(str) + '%'
 
 stylesheet = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 

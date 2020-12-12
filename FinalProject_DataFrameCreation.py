@@ -143,7 +143,7 @@ Average=df_final['Average Probability'].mean()
 Average=round(Average*100,2)
 Average=str(Average)+'%'
 print(Average)   
-df_final['Average Probability'] = round(df_final['Average Probability']*100,2).astype(str) + '%'
+#df_final['Average Probability'] = round(df_final['Average Probability']*100,2).astype(str) + '%'
 df_final = df_final.rename(columns={'state': 'State', 'college': 'College', 'county': 'County', 'city': 'City','Average Probability':'Probability'})
 
 df_final.to_csv('df_Final.csv', index=False)
