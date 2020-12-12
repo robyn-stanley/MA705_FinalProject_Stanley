@@ -1,1 +1,1 @@
-web: gunicorn fruit_dashboard:server
+web: python FinalProjectv3.py
