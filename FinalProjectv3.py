@@ -19,7 +19,7 @@ import plotly.express as px
 #DATA IMPORT AND CLEANING PORTION
 
 # file path of college data txt
-data_filepath = "https://raw.githubusercontent.com/robyn-stanley/MA705_FinalProject_Stanley/main/CollegeCovidCases.txt?token=AR3XOFEJQ3PK3YA4H5RKG5K72UWCQ"
+data_filepath = "https://raw.githubusercontent.com/robyn-stanley/MA705_FinalProject_Stanley/main/CollegeCovidCases.txt"
 
 original_headers=['date', 'state', 'county', 'city', 'ipeds_id', 'college', 'cases', 'notes']
 
