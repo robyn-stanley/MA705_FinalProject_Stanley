@@ -1,0 +1,243 @@
+State,College,County,City,Probability
+Alabama,Auburn University,Lee,Auburn,0.06480154982588067
+Alabama,Troy University,Pike,Troy,0.0
+Alabama,University of South Alabama,Mobile,Mobile,0.0726695401555976
+Alaska,University of Alaska Anchorage,Anchorage Municipality,Anchorage,0.038640232701658055
+Arizona,Grand Canyon University,Maricopa,Phoenix,0.01591175680729292
+Arizona,Northern Arizona University,Coconino,Flagstaff,0.004363752411497716
+Arizona,University of Arizona,Pima,Tucson,0.046351039614130965
+Arkansas,Arkansas Tech University,Pope,Russellville,0.04863477667267402
+Arkansas,University of Arkansas,Washington,Fayetteville,0.13308509338260474
+California,Antelope Valley College,Los Angeles,Lancaster,0.010212024087478386
+California,Bakersfield College,Kern,Bakersfield,0.0
+California,Cypress College,Orange,Cypress,0.02787909462264161
+California,Foothill College,Santa Clara,Los Altos,0.0
+California,MiraCosta College,San Diego,Oceanside,0.007701413953723899
+California,Modesto Junior College,Stanislaus,Modesto,
+California,Rio Hondo College,Los Angeles,Whittier,0.016873247572848363
+California,San Diego City College,San Diego,San Diego,0.036178062206324316
+California,San Diego Mesa College,San Diego,San Diego,0.0
+California,San Diego Miramar College,San Diego,San Diego,0.0
+California,San Francisco State University,San Francisco,San Francisco,0.0
+California,San Jose State University,Santa Clara,San Jose,0.009849509482474672
+California,Santa Ana College,Orange,Santa Ana,0.007505710468927268
+California,Santa Monica College,Los Angeles,Santa Monica,0.0
+California,Santiago Canyon College,Orange,Orange,0.0
+California,Southwestern College,San Diego,Chula Vista,0.0
+Kansas,Southwestern College,Cowley,Winfield,0.0
+California,Stanford University,Santa Clara,Stanford,0.0
+California,University of Southern California,Los Angeles,Los Angeles,0.014207296954550133
+Colorado,Arapahoe Community College,Arapahoe,Littleton,0.0
+Colorado,Front Range Community College,Adams,Westminster,0.0
+Colorado,Metropolitan State University of Denver,Denver,Denver,0.008631761951024301
+Colorado,Pikes Peak Community College,El Paso,Colorado Springs,0.013267276560667333
+Colorado,University of Colorado Boulder,Boulder,Boulder,0.05989159913567793
+Colorado,University of Colorado Colorado Springs,El Paso,Colorado Springs,0.003952590795404692
+Colorado,University of Denver,Denver,Denver,0.009343012555675507
+Colorado,University of Northern Colorado,Weld,Greeley,0.03192969965225439
+Connecticut,Central Connecticut State University,Hartford,New Britain,0.020740312682812644
+Delaware,University of Delaware,New Castle,Newark,0.03764490768951757
+Delaware,Wilmington University,New Castle,New Castle,
+Florida,Broward College,Broward,Fort Lauderdale,0.0
+Florida,Daytona State College,Volusia,Daytona Beach,0.005311244563845594
+Florida,Eastern Florida State College,Brevard,Cocoa ,0.0
+Florida,Florida Atlantic University,Palm Beach,Boca Raton,0.04473251492520867
+Florida,Florida Gulf Coast University,Lee,Fort Myers,0.03423686564286982
+Florida,Florida International University,Miami-Dade,Miami,0.041573213367723544
+Florida,Florida SouthWestern State College,Lee,Fort Myers,0.017307848675429217
+Florida,Florida State College at Jacksonville,Duval,Jacksonville,0.009683418883723607
+Florida,Florida State University,Leon,Tallahassee,0.07589073679790342
+Florida,Full Sail University,Orange,Winter Park,0.0
+Florida,Hillsborough Community College,Hillsborough,Tampa,0.0
+Florida,Indian River State College,St. Lucie,Fort Pierce,0.0
+Florida,Miami Dade College,Miami-Dade,Miami,0.007469505895267958
+Florida,Nova Southeastern University,Broward,Fort Lauderdale,0.00014262280773422149
+Florida,Palm Beach State College,Palm Beach,Lake Worth,0.0
+Florida,Pasco-Hernando State College,Pasco,New Port Richey,0.017819856842834655
+Florida,Saint Leo University,Pasco,Saint Leo,0.0
+Florida,Santa Fe College,Alachua,Gainesville,0.008687123330570116
+Florida,Seminole State College of Florida,Seminole,Sanford,0.0
+Florida,Tallahassee Community College,Leon,Tallahassee,0.01857446263447245
+Florida,University of Central Florida,Orange,Orlando,0.050078900700794335
+Florida,University of Florida,Alachua,Gainesville,0.10870422352276846
+Florida,University of Miami,Miami-Dade,Miami,0.04400583572630135
+Florida,University of North Florida,Duval,Jacksonville,0.010121817485658286
+Florida,Valencia College,Orange,Orlando,0.004545563732782225
+Georgia,Emory University,Fulton,Atlanta,0.007183075196752549
+Georgia,Georgia Gwinnett College,Gwinnett,Lawrenceville,0.04138492551009878
+Georgia,Georgia Southern University,Bulloch,Statesboro,0.011162447458709163
+Georgia,Georgia State University,Fulton,Atlanta,0.007272297732608046
+Georgia,Kennesaw State University,Cobb,Kennesaw,0.07730118875786603
+Georgia,University of Georgia,Clarke,Athens,0.1305865480032769
+Georgia,University of North Georgia,Lumpkin,Dahlonega,0.031070483889894723
+Georgia,Valdosta State University,Lowndes,Valdosta,0.0024258460574035686
+Hawaii,University of Hawaii at Manoa,Honolulu,Honolulu,0.01566955188366444
+Idaho,Boise State University,Ada,Boise ,0.02307947782134878
+Idaho,Brigham Young University-Idaho,Madison,Rexburg,0.02054661480998047
+Idaho,Idaho State University,Bannock,Pocatello,0.07526507989706216
+Idaho,University of Idaho,Latah,Moscow,0.058849022667032076
+Illinois,DePaul University,Cook,Chicago,0.016696311451267976
+Illinois,Illinois State University,McLean,Normal,0.0885603836321255
+Illinois,Loyola University Chicago,Cook,Chicago,0.0
+Illinois,Northwestern University,Cook,Evanston,0.008207818882687139
+Illinois,University of Chicago,Cook,Chicago,0.012825583483266036
+Illinois,University of Illinois at Chicago,Cook,Chicago,0.03632736725792162
+Indiana,Ball State University,Delaware,Muncie,0.07996331660613902
+Indiana,Indiana State University,Vigo,Terre Haute,0.017895946345998587
+Indiana,University of Notre Dame,St. Joseph,Notre Dame,0.13719606251060934
+Indiana,Vincennes University,Knox,Vincennes,0.0
+Iowa,Iowa State University,Story,Ames,0.048785387591265356
+Iowa,University of Iowa,Johnson,Iowa City,0.08095501613505764
+Kansas,Fort Hays State University,Ellis,Hays,0.0
+Kansas,Johnson County Community College,Johnson,Overland Park,0.05271373607885443
+Kansas,Kansas State University,Riley,Manhattan,0.046864943912043336
+Kansas,University of Kansas,Douglas,Lawrence,0.07988145814188073
+Kansas,Wichita State University,Sedgwick,Wichita,0.021628147531244295
+Kentucky,Campbellsville University,Taylor,Campbellsville,0.0
+Kentucky,Eastern Kentucky University,Madison,Richmond,0.0
+Kentucky,Jefferson Community and Technical College,Jefferson,Louisville,0.0
+Kentucky,Northern Kentucky University,Campbell,Highland Heights,0.013874989877226518
+Kentucky,University of Kentucky,Fayette,Lexington,0.09763179713843996
+Kentucky,University of Louisville,Jefferson,Louisville,0.07628736481698642
+Kentucky,University of the Cumberlands,Whitley,Williamsburg,0.012945993218901632
+Kentucky,Western Kentucky University,Warren,Bowling Green,0.06311860760247101
+Louisiana,Delgado Community College,Orleans,New Orleans,0.0
+Louisiana,Louisiana Tech University,Lincoln,Ruston,0.04538396144695076
+Louisiana,Southeastern Louisiana University,Tangipahoa,Hammond,0.010697735232317923
+Louisiana,Tulane University of Louisiana,Orleans,New Orleans,0.1404474089857824
+Louisiana,University of Louisiana at Lafayette,Lafayette,Lafeyette,0.0196304512951527
+Maine,University of Maine,Penobscot,Orono,0.006709912941057729
+Maryland,Johns Hopkins University,Baltimore City,Baltimore,0.014912663629787784
+Maryland,Towson University,Baltimore,Towson,0.029796585118320965
+Massachusetts,Boston College,Middlesex,Chestnut Hill,0.030613078882480847
+Massachusetts,Boston University,Suffolk,Boston,0.020024942496475583
+Massachusetts,Harvard University,Middlesex,Cambridge,0.0
+Massachusetts,Northeastern University,Suffolk,Boston,0.0
+Massachusetts,Tufts University,Middlesex,Medford,0.028712857378337304
+Michigan,Central Michigan University,Isabella,Mount Pleasant,0.005119388028214875
+Michigan,Eastern Michigan University,Washtenaw,Ypsilanti,0.019729904426633825
+Michigan,Ferris State University,Mecosta,Big Rapids,0.044860668633032674
+Michigan,Grand Rapids Community College,Kent,Grand Rapids,0.00776977112268842
+Michigan,Grand Valley State University,Ottawa,Allendale,0.09303893634189267
+Michigan,Henry Ford College,Wayne,Dearborn,0.0
+Michigan,Michigan State University,Ingham,East Lansing,0.029714460898415687
+Michigan,Oakland University,Oakland,Rochester,0.0
+Michigan,Washtenaw Community College,Washtenaw,Ann Arbor,0.0
+Michigan,Wayne State University,Wayne,Detroit,0.0
+Michigan,Western Michigan University,Kalamazoo,Kalamazoo,0.05828091668179545
+Mississippi,Mississippi State University,Oktibbeha,Mississippi State,0.014583691434531415
+Mississippi,University of Mississippi,Lafayette,Oxford,0.08088833481079273
+Mississippi,University of Southern Mississippi,Forrest,Hattiesburg,0.0
+Missouri,Ozarks Technical Community College,Greene,Springfield,0.009081383457124597
+Missouri,Saint Louis University,City of St. Louis,St. Louis,0.016762042805349132
+Missouri,University of Central Missouri,Johnson,Warrensburg,0.02988350457097623
+Missouri,University of Missouri-Kansas City,Kansas City,Kansas City,0.03205382844387542
+Missouri,Webster University,City of St. Louis,Saint Louis,0.022262737341177567
+Montana,Montana State University,Gallatin,Bozeman,0.014647433707879489
+Nebraska,University of Nebraska at Omaha,Douglas,Omaha,0.03907254066578132
+Nebraska,University of Nebraska-Lincoln,Lancaster,Lincoln,0.04609455772793817
+Nevada,College of Southern Nevada,Clark,Las Vegas,0.0025695712169526027
+New Hampshire,Southern New Hampshire University,Hillsborough,Manchester,0.016506335065805743
+New Jersey,Kean University,Union,Union,0.003070462795043956
+New Jersey,Montclair State University,Essex,Montclair,0.03499613329766659
+New Jersey,New Jersey Institute of Technology,Essex,Newark,0.0
+New Jersey,Rowan University,Gloucester,Glassboro,0.038890058391759436
+New Jersey,Rutgers University-Newark,Essex,Newark,0.0
+New York,CUNY Borough of Manhattan Community College,New York City,New York City,0.0
+New York,CUNY Brooklyn College,New York City,New York City,0.0
+New York,CUNY Hunter College,New York City,New York City,0.03977027510831561
+New York,CUNY John Jay College of Criminal Justice,New York City,New York City,0.01956224557326514
+New York,CUNY Kingsborough Community College,New York City,New York City,0.026077657442668937
+New York,CUNY LaGuardia Community College,New York City,New York City,0.0
+New York,CUNY Lehman College,New York City,New York City,0.0
+New York,CUNY New York City College of Technology,New York City,New York City,0.0
+New York,CUNY Queens College,New York City,New York City,0.022586004190491452
+New York,CUNY Queensborough Community College,New York City,New York City,0.0
+New York,Cornell University,Tompkins,Ithaca,0.0444901974381049
+New York,Excelsior College,Albany,Albany,0.0
+New York,Fordham University,New York City,New York City,0.022304961060351635
+New York,Long Island University,Nassau,Brookville,0.0
+New York,Monroe Community College,Monroe,Rochester,0.0
+New York,Nassau Community College,Nassau,Garden City,0.001868585889054539
+New York,New York University,New York City,New York City,0.022551359710260285
+New York,Pace University,New York City,New York City,0.0
+New York,Rochester Institute of Technology,Monroe,Rochester,0.0
+New York,SUNY Westchester Community College,Westchester,Valhalla,0.009106869009351669
+New York,Stony Brook University,Suffolk,Stony Brook,0.011952503598558935
+New York,Suffolk County Community College,Suffolk,Selden,0.017815967778402567
+New York,Syracuse University,Onondaga,Syracuse,0.009161173347973051
+New York,Touro College,New York City,New York City,0.0
+North Carolina,Appalachian State University,Watauga,Boone,0.037115962842458355
+North Carolina,Duke University,Durham,Durham,0.01827264482746325
+North Carolina,East Carolina University,Pitt,Greenville,0.06882484035172459
+North Carolina,University of North Carolina Wilmington,New Hanover,Wilmington,0.06502519596207597
+North Carolina,University of North Carolina at Chapel Hill,Orange,Chapel Hill,0.01435459777318599
+North Carolina,University of North Carolina at Charlotte,Mecklenburg,Charlotte,0.009934774693438316
+North Carolina,University of North Carolina at Greensboro,Guilford,Greensboro,0.0023311189642001447
+North Carolina,Wake Technical Community College,Wake,Raleigh,0.0
+North Carolina,Western Carolina University,Jackson,Cullowhee,0.0
+North Dakota,University of North Dakota,Grand Forks,Grand Forks,0.13114037433305592
+Ohio,Case Western Reserve University,Cuyahoga,Cleveland,0.0
+Ohio,Cleveland State University,Cuyahoga,Cleveland,0.03486918834050495
+Ohio,Cuyahoga Community College District,Cuyahoga,Cleveland,0.002645624263421613
+Ohio,Sinclair Community College,Montgomery,Dayton,0.00581982610553757
+Ohio,University of Dayton,Montgomery,Dayton,0.17513564869417117
+Ohio,University of Toledo,Lucas,Toledo,0.021435301042003186
+Ohio,Youngstown State University,Mahoning,Youngstown,0.008598235676457658
+Oklahoma,University of Central Oklahoma,Oklahoma,Edmond,0.06477715483175106
+Oregon,Oregon State University,Benton,Corvallis,0.0019139546885582873
+Oregon,Portland State University,Multnomah,Portland,0.016030664279519415
+Oregon,University of Oregon,Lane,Eugene,0.0
+Pennsylvania,Carnegie Mellon University,Allegheny,Pittsburgh,0.0
+Pennsylvania,Community College of Allegheny County,Allegheny,Pittsburgh,0.002822312382615675
+Pennsylvania,Drexel University,Philadelphia,Philadelphia,0.002320461533749456
+Pennsylvania,Temple University,Philadelphia,Philadelphia,0.016008967019933828
+Pennsylvania,University of Pennsylvania,Philadelphia,Philadelphia,0.0
+Rhode Island,University of Rhode Island,Washington,Kingston,0.047267009338669154
+South Carolina,Clemson University,Pickens,Clemson,0.21783314577048402
+Tennessee,East Tennessee State University,Washington,Johnson City,0.012688934762052064
+Tennessee,Middle Tennessee State University,Rutherford,Murfreesboro,0.019664316316516266
+Tennessee,University of Memphis,Shelby,Memphis,0.0
+Tennessee,Vanderbilt University,Davidson,Nashville,0.11696925061929715
+Texas,Austin Community College District,Travis,Austin,0.01794874558333641
+Texas,Baylor University,McLennan,Waco,0.09366943828744251
+Texas,Blinn College,Washington,Brenham,0.06349944197947219
+Texas,Lamar University,Jefferson,Beaumont,0.00665559940104251
+Texas,Sam Houston State University,Walker,Huntsville,0.05598503594203834
+Texas,South Texas College,Hidalgo,McAllen,0.0
+Texas,Southern Methodist University,Dallas,Dallas,0.0926317384111607
+Texas,Tarleton State University,Erath,Stephenville,0.01968514824221744
+Texas,Texas State University,Hays,San Marcos,0.050726073247464455
+Texas,Texas Tech University,Lubbock,Lubbock,0.04109498999808728
+Texas,University of Houston,Harris,Houston,0.0
+Texas,University of Houston-Downtown,Harris,Houston,0.01949940305309221
+Texas,University of North Texas,Denton,Denton,0.0033765147684525075
+Utah,Salt Lake Community College,Salt Lake,Salt Lake City,0.006003403655958963
+Utah,University of Utah,Salt Lake,Salt Lake City,0.05407449418932098
+Utah,Utah State University,Cache,Logan,0.052706460711978126
+Utah,Utah Valley University,Utah,Orem,0.02701003800135591
+Utah,Weber State University,Weber,Ogden,0.02903933572864297
+Vermont,University of Vermont,Chittenden,Burlington,0.043302972254624164
+Virginia,George Mason University,Fairfax,Fairfax,0.0
+Virginia,James Madison University,Rockingham,Harrisonburg,0.07199873279114202
+Virginia,Liberty University,Campbell,Lynchburg,0.02206910344641553
+Virginia,Old Dominion University,Norfolk,Norfolk,0.0
+Virginia,Virginia Commonwealth University,Richmond,Richmond,0.059647973533148796
+"""Washington, D.C.""",American University,"""Washington, D.C.""",Washington,0.012408852250514744
+"""Washington, D.C.""",George Washington University,"""Washington, D.C.""",Washington,0.037319428002522706
+"""Washington, D.C.""",Georgetown University,"""Washington, D.C.""",Washington,0.05591389493877137
+Washington,Bellevue College,King,Bellevue,0.029099635899725928
+Washington,Central Washington University,Kittitas,Ellensburg,0.0692683433638892
+Washington,Eastern Washington University,Spokane,Cheney,0.028738970702272066
+Washington,Washington State University,Whitman,Pullman,0.05726553397154208
+Washington,Western Washington University,Whatcom,Bellingham,0.0
+West Virginia,Marshall University,Cabell,Huntington,0.02665829614344999
+West Virginia,West Virginia University,Monongalia,Morgantown,0.0
+Wisconsin,Madison Area Technical College,Dane,Madison,
+Wisconsin,Marquette University,Milwaukee,Milwaukee,0.057992501986724454
+Wisconsin,University of Wisconsin-Eau Claire,Eau Claire,Eau Claire,0.08028471629159949
+Wisconsin,University of Wisconsin-Madison,Dane,Madison,0.11437647544522407
+Wisconsin,University of Wisconsin-Milwaukee,Milwaukee,Milwaukee,0.06940942994197039
+Wisconsin,University of Wisconsin-Oshkosh,Winnebago,Oshkosh,0.1115617719383093
+Wisconsin,University of Wisconsin-Whitewater,Walworth,Whitewater,0.05774488266169083
+Wyoming,University of Wyoming,Albany,Laramie,0.13301683258602023
