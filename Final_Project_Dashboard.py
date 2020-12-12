@@ -14,7 +14,7 @@ import plotly.express as px
 
 
 #DASHBOARD PORTION
-data_filepath = "C:/Users/17818/OneDrive/Documents/Bentley/Fall 2020/MA705/FinalProject/df_Final.csv"
+data_filepath = "./df_Final.csv"
 df_final= pd.read_csv(data_filepath)
 
 Average=df_final['Probability'].mean()
